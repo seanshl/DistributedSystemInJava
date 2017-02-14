@@ -1,0 +1,9 @@
+package com.shiyao.utils;
+
+import com.google.common.hash.HashFunction;
+
+public class ConsistentHash<T> {
+
+	private final HashFunction hashFunction;
+	
+}

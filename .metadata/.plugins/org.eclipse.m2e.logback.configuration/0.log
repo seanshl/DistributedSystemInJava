@@ -1,0 +1,60 @@
+2017-02-13 23:52:20,756 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DistributedSystems:DistributedSystems:0.0.1-SNAPSHOT @ /Users/liushiyao/Documents/workspace/DistributedSystemInJava/DistributedSystems/pom.xml.
+2017-02-13 23:52:22,300 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-13 23:52:22,302 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liushiyao/Documents/workspace/DistributedSystemInJava/DistributedSystems/src/main/resources
+2017-02-13 23:52:22,305 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-13 23:52:22,305 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liushiyao/Documents/workspace/DistributedSystemInJava/DistributedSystems/src/test/resources
+2017-02-13 23:52:22,348 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DistributedSystems/src
+2017-02-13 23:52:22,349 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /DistributedSystems/src/test/java because it overlaps with /DistributedSystems/src
+2017-02-13 23:52:22,591 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-02-13 23:52:23,009 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DistributedSystems:DistributedSystems:0.0.1-SNAPSHOT @ /Users/liushiyao/Documents/workspace/DistributedSystemInJava/DistributedSystems/pom.xml.
+2017-02-13 23:52:23,272 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DistributedSystems/src
+2017-02-13 23:52:23,274 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /DistributedSystems/src/test/java because it overlaps with /DistributedSystems/src
+2017-02-13 23:52:23,381 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-02-13 23:52:23,522 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-13 23:52:23,523 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liushiyao/Documents/workspace/DistributedSystemInJava/DistributedSystems/src/main/resources
+2017-02-13 23:52:23,525 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-13 23:52:23,526 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liushiyao/Documents/workspace/DistributedSystemInJava/DistributedSystems/src/test/resources
+2017-02-13 23:53:22,204 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DistributedSystems:DistributedSystems:0.0.1-SNAPSHOT @ /Users/liushiyao/Documents/workspace/DistributedSystemInJava/DistributedSystems/pom.xml.
+2017-02-13 23:53:24,040 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/21.0/guava-21.0.pom
+2017-02-13 23:53:24,223 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava/21.0/guava-21.0.pom
+2017-02-13 23:53:24,526 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/21.0/guava-parent-21.0.pom
+2017-02-13 23:53:24,713 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/21.0/guava-parent-21.0.pom
+2017-02-13 23:53:24,756 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/21.0/guava-21.0.jar
+2017-02-13 23:53:25,265 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava/21.0/guava-21.0.jar
+2017-02-13 23:53:25,593 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-13 23:53:25,595 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liushiyao/Documents/workspace/DistributedSystemInJava/DistributedSystems/src/main/resources
+2017-02-13 23:53:25,598 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-13 23:53:25,599 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liushiyao/Documents/workspace/DistributedSystemInJava/DistributedSystems/src/test/resources
+2017-02-13 23:53:27,746 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-13 23:53:27,747 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liushiyao/Documents/workspace/DistributedSystemInJava/DistributedSystems/src/main/resources
+2017-02-13 23:53:27,749 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-13 23:53:27,749 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liushiyao/Documents/workspace/DistributedSystemInJava/DistributedSystems/src/test/resources
+2017-02-13 23:53:30,128 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-02-13 23:53:30,530 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DistributedSystems:DistributedSystems:0.0.1-SNAPSHOT @ /Users/liushiyao/Documents/workspace/DistributedSystemInJava/DistributedSystems/pom.xml.
+2017-02-13 23:53:30,747 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DistributedSystems/src
+2017-02-13 23:53:30,748 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /DistributedSystems/src/test/java because it overlaps with /DistributedSystems/src
+2017-02-13 23:53:30,804 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-02-13 23:53:30,943 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-13 23:53:30,944 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liushiyao/Documents/workspace/DistributedSystemInJava/DistributedSystems/src/main/resources
+2017-02-13 23:53:30,946 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-13 23:53:30,946 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liushiyao/Documents/workspace/DistributedSystemInJava/DistributedSystems/src/test/resources
+2017-02-13 23:53:36,498 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-13 23:53:36,500 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liushiyao/Documents/workspace/DistributedSystemInJava/DistributedSystems/src/main/resources
+2017-02-13 23:53:36,501 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-13 23:53:36,502 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liushiyao/Documents/workspace/DistributedSystemInJava/DistributedSystems/src/test/resources
+2017-02-13 23:55:55,087 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-13 23:55:55,092 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liushiyao/Documents/workspace/DistributedSystemInJava/DistributedSystems/src/main/resources
+2017-02-13 23:55:55,093 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-13 23:55:55,094 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liushiyao/Documents/workspace/DistributedSystemInJava/DistributedSystems/src/test/resources
+2017-02-13 23:57:56,869 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-13 23:57:56,870 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liushiyao/Documents/workspace/DistributedSystemInJava/DistributedSystems/src/main/resources
+2017-02-13 23:57:56,873 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-13 23:57:56,874 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liushiyao/Documents/workspace/DistributedSystemInJava/DistributedSystems/src/test/resources
+2017-02-13 23:58:15,846 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-13 23:58:15,847 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liushiyao/Documents/workspace/DistributedSystemInJava/DistributedSystems/src/main/resources
+2017-02-13 23:58:15,848 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-13 23:58:15,848 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liushiyao/Documents/workspace/DistributedSystemInJava/DistributedSystems/src/test/resources
+2017-02-14 00:01:48,900 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-14 00:01:48,904 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liushiyao/Documents/workspace/DistributedSystemInJava/DistributedSystems/src/main/resources
+2017-02-14 00:01:48,907 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-02-14 00:01:48,910 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/liushiyao/Documents/workspace/DistributedSystemInJava/DistributedSystems/src/test/resources

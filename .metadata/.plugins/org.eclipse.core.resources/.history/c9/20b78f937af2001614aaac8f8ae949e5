@@ -1,0 +1,33 @@
+package com.shiyao.utils;
+
+import java.util.Collection;
+import java.util.SortedMap;
+import java.util.TreeMap;
+
+import com.google.common.hash.HashFunction;
+
+public class ConsistentHash<T> {
+
+	private final HashFunction hashFunction;
+	
+	private final int numOfReplicas;
+	
+	private final SortedMap<Integer, T> circle;
+	
+	public ConsistentHash(HashFunction hashFunction, int numOfReplicas, Collection<T> nodes) {
+		this.hashFunction = hashFunction;
+		this.numOfReplicas = numOfReplicas;
+		this.circle = new TreeMap<Integer, T>();
+		
+		for (T node : nodes) {
+			
+		}
+	}
+	
+	public void add(T node) {
+		for (int i = 0; i < numOfReplicas; i++) {
+			circle.put(hashFunction.hashObject(node, null).asInt(), node);
+		}
+	}
+	
+}

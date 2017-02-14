@@ -1,0 +1,5 @@
+package com.shiyao.utils;
+
+public class ConsistentHash {
+
+}
